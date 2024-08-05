@@ -2,10 +2,10 @@ Spotify Playlist Generator
 
 Leveraging the power of big data and an intelligent clustering algorithm to deliver personalised music recommendations to Spotify users.
 
-Input to code: Spotify User ID, Playlist name, User's library, Music_csv file
-Output to code: Recommended playlist added directly to Spotify account of user
-Processes of code: Cluster algorithm, Place requests to API endpoint, Merge sort algorithm, Add reccommended tracks to a new playlist
-Data structures: Dictionaries, JSON, CSV files, Pandas / Numpy array, Multideminsional array
+- Input to code: Spotify User ID, Playlist name, User's library, Music_csv file
+- Output to code: Recommended playlist added directly to Spotify account of user
+- Processes of code: Cluster algorithm, Place requests to API endpoint, Merge sort algorithm, Add reccommended tracks to a new playlist
+- Data structures: Dictionaries, JSON, CSV files, Pandas / Numpy array, Multideminsional array
 
 ALTERNATIVE PLAYLIST GENERATION IDEAS
 
