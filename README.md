@@ -1,4 +1,4 @@
-Spotify Playlist Generator
+Spotify Machine Learning Playlist Generator
 
 Leveraging the power of big data and an intelligent clustering algorithm to deliver personalised music recommendations to Spotify users.
 
