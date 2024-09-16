@@ -1,4 +1,4 @@
-Spotify Machine Learning Playlist Generator
+# Spotify Machine Learning Playlist Generator
 
 Leveraging the power of big data and an intelligent clustering algorithm to deliver personalised music recommendations to Spotify users.
 
@@ -7,7 +7,7 @@ Leveraging the power of big data and an intelligent clustering algorithm to deli
 - Processes of code: Cluster algorithm, Place requests to API endpoint, Merge sort algorithm, Add reccommended tracks to a new playlist
 - Data structures: Dictionaries, JSON, CSV files, Pandas / Numpy array, Multideminsional array
 
-ALTERNATIVE PLAYLIST GENERATION IDEAS
+## ALTERNATIVE PLAYLIST GENERATION IDEAS
 
 1. The user could complete a quiz which would ask them questions about their taste in music. Because of how broad music is,
    they will have to answer an initial question on which genre they like the most, this would consist of a condensed list of
